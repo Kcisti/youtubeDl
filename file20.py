@@ -50,5 +50,3 @@ def main():
             else:
                 print(f"{Re} !Couldn't find video!\n")
     print(f"{Gr} Video Downloaded Complete")
-
-main()
